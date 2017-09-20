@@ -42,6 +42,7 @@ int main(){
       }
       if (again == 'y') {
 	stillPlaying = true; //Restart Game
+	count = 0; //Reset count.
       }
       else if (again == 'n'){
 	stillPlaying = false; //End Game
