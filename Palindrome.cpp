@@ -17,7 +17,7 @@ int main(){
   input[80] = '\0';
   alpha[80] = '\0';
   output[80] = '\0';
-  int count = 0; //Declare counter to be used.
+  int count = 0; //Declare counters to be used.
   int count1 = 0;
   
   cin.get(input, 80); //Read in input.
